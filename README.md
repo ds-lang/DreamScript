@@ -24,8 +24,8 @@ DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to
 - Command
 ```
 ~$ ds run <your file or directory file>
-atau
-~$ ds cmp <your file or directory file>
+or
+~$ ds compile <your file or directory file>
 or
 
 for any command, you can see at:
@@ -63,17 +63,13 @@ https://ds-lang.github.io
 
 
 ## CHANGE LOG
-### Version 0.0.2 :
+### Version 0.0.3 :
 - Update Installer
 - Fix Many Bugssss
-- Add yesno() function
-- Add schemaMongoDB() function
-- Add modelMongoDB() function
-- Add connectMongoDb() function
-- Add the createApp function on DreamScript Code
-- Add the createServer function on DreamScript Code
-- Add the GET() function on DreamScript Code
-- Add the POST() function on DreamScript Code
+- Add math() Mathemathical function
+- Add smtp() SMTP Protocol function
+- Add mysql() Integrated function
+- Add exportsfile function
 
 
 
