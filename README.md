@@ -28,6 +28,8 @@ or
 ~$ ds compile <your file or directory file>
 or
 
+~$ ds install <nodejs package>
+
 for any command, you can see at:
 ~$ ds -h
 ```
