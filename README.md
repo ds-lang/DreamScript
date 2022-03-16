@@ -63,13 +63,10 @@ https://ds-lang.github.io
 
 
 ## CHANGE LOG
-### Version 0.0.3 :
+### Version 0.0.4 :
 - Update Installer
 - Fix Many Bugssss
-- Add math() Mathemathical function
-- Add smtp() SMTP Protocol function
-- Add mysql() Integrated function
-- Add exportsfile function
+- Add 'ds install' to Install the Library of NPMJS on CLI Commands
 
 
 
