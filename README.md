@@ -23,12 +23,14 @@ DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to
 
 - Command
 ```
-~$ ds run <your file or directory file>
+~$ ds r <your file or directory file>
 or
-~$ ds compile <your file or directory file>
+~$ ds c <your file or directory file>
 or
 
 ~$ ds install <nodejs package>
+
+~$ ds create <name of directory>
 
 for any command, you can see at:
 ~$ ds -h
@@ -65,10 +67,11 @@ https://ds-lang.github.io
 
 
 ## CHANGE LOG
-### Version 0.0.4 :
+### Version 0.0.5 :
 - Update Installer
 - Fix Many Bugssss
-- Add 'ds install' to Install the Library of NPMJS on CLI Commands
+- Add many CLI Commands
+- Add many Function on DS Codes
 
 
 
