@@ -1,0 +1,84 @@
+{
+    "name": "ds-langs",
+    "version": "0.5.0",
+    "main": "lib/ds.js",
+    "engines": {
+        "node": ">=6.12.2"
+    },
+    "preferGlobal": true,
+    "bin": {
+        "ds": "bin/ds"
+    },
+    "scripts": {
+        "start": "node lib/ds.js",
+        "coala": "coala --non-interactive",
+        "format": "eslint . --fix",
+        "build-windows": "npx pkg . --targets node16-win-x64 --output ./build/ds.exe"
+    },
+    "jest": {
+        "coverageDirectory": "./coverage/",
+        "collectCoverage": true
+    },
+    "author": "JahiR",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.23.0",
+        "canvas": "^2.9.0",
+        "chalk": "^4.0.0",
+        "cheerio": "^1.0.0-rc.10",
+        "child_process": "^1.0.2",
+        "commander": "^7.2.0",
+        "cors": "^2.8.5",
+        "death": "^1.1.0",
+        "express": "^4.17.1",
+        "file-detect": "^0.1.1",
+        "fs": "^0.0.1-security",
+        "http": "^0.0.1-security",
+        "js-beautify": "1.14.0",
+        "mathjs": "^10.4.0",
+        "mkdirp": "^1.0.3",
+        "mongoose": "^6.0.11",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3",
+        "ncp": "^2.0.0",
+        "prompt": "^1.2.2",
+        "react": "^17.0.2",
+        "readline-sync": "^1.4.7",
+        "recursive-readdir-sync": "^1.0.6",
+        "smtp-client": "^0.4.0",
+        "socket.io": "^4.4.1",
+        "ssl-express-www": "^3.0.8",
+        "subprocess": "^0.3.0"
+    },
+    "directories": {
+        "lib": "lib",
+        "bin": "bin"
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.0.1",
+        "eslint": "^7.2.0",
+        "eslint-config-prettier": "^8.0.0",
+        "eslint-plugin-import": "^2.16.0",
+        "eslint-plugin-jest": "^24.0.0",
+        "eslint-plugin-prettier": "^3.0.1",
+        "jest": "^26.0.1",
+        "pmock": "^0.2.3",
+        "prettier": "1.18.2",
+        "rimraf": "^3.0.0"
+    },
+    "description": "Dreamscript is a JavaScript-based programming language that can be used more simply and easily, Designed to make it easier for Developers.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ds-lang/DreamScript.git"
+    },
+    "keywords": [
+        "dreamscript",
+        "ds",
+        "ds-languange",
+        "programming"
+    ],
+    "bugs": {
+        "url": "https://github.com/ds-lang/DreamScript/issues"
+    },
+    "homepage": "https://github.com/ds-lang/DreamScript#readme"
+}

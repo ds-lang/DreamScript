@@ -1,0 +1,38 @@
+{
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "plugins": [
+        "prettier",
+        "jest",
+        "import"
+    ],
+    "extends": [
+        "plugin:jest/recommended",
+        "prettier"
+    ],
+    "parser": "babel-eslint",
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "singleQuote": true,
+                "semi": false,
+                "trailingComma": "none",
+                "bracketSpacing": true,
+                "tabWidth": 4,
+                "arrowParens": "avoid"
+            }
+        ],
+        "import/newline-after-import": ["error", {
+            "count": 1
+        }],
+        "padding-line-between-statements": ["error", {
+            "blankLine": "always",
+            "prev": "*",
+            "next": "return"
+        }],
+        "no-console": "warn"
+    }
+}

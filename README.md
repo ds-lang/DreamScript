@@ -13,66 +13,41 @@ DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to
 ## DreamScript Installation
 
 - Install [NodeJs](https://nodejs.org/en/)
-- Open your Cmd
-- Install The Installer on /downloadInstaller Folder
-
-## Support OS Installer
-- Windows 64 Bit
+- Install with NPM
 
 ## Get Started
 
-- Command
+- Commands
 ```
 ~$ ds r <your file or directory file>
-or
+atau
 ~$ ds c <your file or directory file>
 or
-
-~$ ds install <nodejs package>
-
 ~$ ds create <name of directory>
 
 for any command, you can see at:
 ~$ ds -h
 ```
 
-- Directory
+- Compile Directory
 
 Example
 ```
 .
-├── code
 └── lib
     ├── index.ds
     └── code.ds
+    ├── index.js
+    └── code.js
 ```
 
-`$ ds dir code lib`
+`$ ds cdirs lib`
 
-this command will compile all files in the `lib` folder and write the compilation results to the `code` folder with the same name and the extension `js`
-```
-.
-├── code
-│   ├── index.js
-│   └── code.js
-└── lib
-    ├── index.ds
-    └── code.ds
-
-```
+This command will compile all files in the `lib` folder and write the compilation results to the same folder with the same name and the extension `js`
 
 ## DOCS
 https://ds-lang.github.io
 - Powered by CoderDocs
-
-
-## CHANGE LOG
-### Version 0.0.5 :
-- Update Installer
-- Fix Many Bugssss
-- Add many CLI Commands
-- Add many Function on DS Codes
-
 
 
 ## CREDITS
