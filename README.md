@@ -4,7 +4,6 @@ Dreamscript is a JavaScript-based programming language that can be used more sim
 DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to-catch errors, few bugs, and many of the advantages you find in DreamScript.
 
 
-
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ![Image](https://raw.githubusercontent.com/ds-lang/DreamScript/main/imagee.jpg)
@@ -13,7 +12,7 @@ DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to
 ## DreamScript Installation
 
 - Install [NodeJs](https://nodejs.org/en/)
-- Install with NPM
+- Install Globally with [NPM](https://www.npmjs.com/package/ds-langs)
 
 ## Get Started
 
@@ -48,6 +47,11 @@ This command will compile all files in the `lib` folder and write the compilatio
 ## DOCS
 https://ds-lang.github.io
 - Powered by CoderDocs
+
+
+## Authors
+- Zahir Hadi Athallah
+- Ezra Khairan Permana
 
 
 ## CREDITS
