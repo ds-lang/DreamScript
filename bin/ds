@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../lib/ds.js')
+require('../lib/ds_cli.js')
