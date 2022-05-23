@@ -1,4 +1,4 @@
-## DreamScript
+## DreamScript [ UNDER DEVELOPMENT ]
 Dreamscript is a JavaScript-based programming language that can be used more simply and easily, Designed to make it easier for Developers.
 
 DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to-catch errors, few bugs, and many of the advantages you find in DreamScript.
@@ -33,20 +33,19 @@ for any command, you can see at:
 Example
 ```
 .
-└── lib
+└── ./
     ├── index.ds
     └── code.ds
     ├── index.js
     └── code.js
 ```
 
-`$ ds cdirs lib`
+`$ ds compile ./`
 
-This command will compile all files in the `lib` folder and write the compilation results to the same folder with the same name and the extension `js`
+This command will compile all files in the root folder and write the compilation results to the same folder with the same name and the extension `js`
 
 ## DOCS
-https://ds-lang.github.io
-- Powered by CoderDocs
+Documentation will be add Soon !
 
 
 ## Authors
@@ -56,4 +55,4 @@ https://ds-lang.github.io
 
 ## CREDITS
 - IndMind [JawaSkrip Repo](https://github.com/Jawaksrip/jawaskrip)
-- JahiR
+- JahiR 
