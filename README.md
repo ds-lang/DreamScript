@@ -32,8 +32,8 @@ for any command, you can see at:
 
 Example
 ```
-.
-└── ./
+./
+└──
     ├── index.ds
     └── code.ds
     ├── index.js
