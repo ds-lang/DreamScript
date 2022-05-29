@@ -1,3 +1,0 @@
-pkg express from 'express'
-pkg scrape from 'cheerio'
-pkg axios from 'axios'
