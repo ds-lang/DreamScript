@@ -1,6 +1,6 @@
 {
     "name": "ds-langs",
-    "version": "0.5.2",
+    "version": "0.6.5",
     "main": "lib/ds.js",
     "engines": {
         "node": ">=6.12.2"
