@@ -45,7 +45,7 @@ Example
 This command will compile all files in the root folder and write the compilation results to the same folder with the same name and the extension `js`
 
 ## DOCS
-Documentation will be add Soon !
+- [Check This Out](https://github.com/ds-lang/Documentation)
 
 
 ## Authors
@@ -53,6 +53,11 @@ Documentation will be add Soon !
 - Ezra Khairan Permana
 
 
+# Note
+This project is just for fun, because iam bored with JavaScript, so i created this Language :)
+
+I hope this Project is UseFul :)
+
 ## CREDITS
 - IndMind [JawaSkrip Repo](https://github.com/Jawaksrip/jawaskrip)
-- JahiR 
+- JahiR
