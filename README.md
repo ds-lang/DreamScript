@@ -3,6 +3,7 @@ Dreamscript is a JavaScript-based programming language that can be used more sim
 
 DreamScript comes with an easy-to-understand syntax, minimal code usage, easy-to-catch errors, few bugs, and many of the advantages you find in DreamScript.
 
+Major Version : 0.6.5
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
