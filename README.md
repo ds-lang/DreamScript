@@ -7,7 +7,7 @@ Major Version : 0.6.5
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-![Image](https://raw.githubusercontent.com/ds-lang/DreamScript/main/imagee.jpg)
+![Image](https://raw.githubusercontent.com/ds-lang/DreamScript/main/newimage.png)
 
 
 ## DreamScript Installation
