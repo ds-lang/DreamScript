@@ -46,12 +46,11 @@ Example
 This command will compile all files in the root folder and write the compilation results to the same folder with the same name and the extension `js`
 
 ## DOCS
-- [Check This Out](https://github.com/ds-lang/Documentation)
+- [Check This Out](https://github.com/ds-lang/DreamScript/wiki)
 
 
 ## Authors
-- Zahir Hadi Athallah
-- Ezra Khairan Permana
+- All Contributors && Supporters
 
 
 # Note
@@ -61,4 +60,3 @@ I hope this Project is UseFul :)
 
 ## CREDITS
 - IndMind [JawaSkrip Repo](https://github.com/Jawaksrip/jawaskrip)
-- JahiR
